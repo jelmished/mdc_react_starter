@@ -1,5 +1,5 @@
 import React from "react";
-import MDC_Button from "./components/MDC_Button";
+import MDC_Button from "./components/mdc-button";
 
 export default function App() {
     return (

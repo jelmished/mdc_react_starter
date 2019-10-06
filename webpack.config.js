@@ -3,7 +3,7 @@ const autoprefixer = require('autoprefixer');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  entry: ['./src/index.js', './src/index.scss'],
+  entry: ['./src/index.js', './src/stylesheets/index.scss'],
   output: {
     path: path.resolve(__dirname, './build'),
     publicPath: '/',

@@ -8,6 +8,10 @@
     "build": "webpack",
     "start": "webpack-dev-server"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jelmished/mdc_react_starter"
+  },
   "author": "Yousef Elmished",
   "license": "ISC",
   "devDependencies": {
